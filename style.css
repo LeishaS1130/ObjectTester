@@ -1,0 +1,80 @@
+body{
+    background-size: cover;
+    color:burlywood;
+    padding-top: 50px;
+    font-family: cursive;
+}
+
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #3D7EAA 0%, #FFE47A  51%, #3D7EAA  100%);
+    margin: 10px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .name_of_objects{
+      font-size: 20px;
+      color: salmon;
+  }
+ 
+           
+  .btn-grad1 {
+    background-image: linear-gradient(to right, #414d0b 0%, #727a17  51%, #414d0b  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+           
+  .btn-grad2 {
+    background-image: linear-gradient(to right, #a73737 0%, #7a2828  51%, #a73737  100%);
+    margin: 10px;
+    padding: 15px 45px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad2:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+ 
